@@ -1,0 +1,534 @@
+[
+  {
+    "id": "Q-001",
+    "question": "There is a need for renewal of the gangway operator certificate every 5 years.",
+    "answers": [
+      { "text": "True", "correct": true },
+      { "text": "False", "correct": false }
+    ]
+  },
+  {
+    "id": "Q-002",
+    "question": "What is the requirement to get re-certification?",
+    "answers": [
+      { "text": "Documentation of gangway operation. If 3 years have passed since the last gangway operation, you must pass theoretical and practical exams.", "correct": true },
+      { "text": "Documentation of gangway operation and a valid Driver’s License.", "correct": false },
+      { "text": "Valid Crane Certificate, and must pass theoretical and practical exams.", "correct": false }
+    ]
+  },
+  {
+    "id": "Q-003",
+    "question": "Should the telescope part always be secured by lashing it to the fixed part when the gangway is in the parking position?",
+    "answers": [
+      { "text": "Only if the gangway is parked for a long time.", "correct": false },
+      { "text": "No.", "correct": false },
+      { "text": "Yes.", "correct": true }
+    ]
+  },
+  {
+    "id": "Q-004",
+    "question": "The gangway is in a parked position. When do you release lashings on the telescope part?",
+    "answers": [
+      { "text": "Before the pumps are started.", "correct": false },
+      { "text": "After lifting from the parked position.", "correct": true }
+    ]
+  },
+  {
+    "id": "Q-005",
+    "question": "Will there be an alarm if the oil temperature is too high?",
+    "answers": [
+      { "text": "Yes.", "correct": true },
+      { "text": "Yes, after 10 minutes above the alarm limit.", "correct": false },
+      { "text": "No.", "correct": false }
+    ]
+  },
+  {
+    "id": "Q-006",
+    "question": "Will there be an alarm if the accumulator pressure is too low?",
+    "answers": [
+      { "text": "No.", "correct": false },
+      { "text": "Only if pressure drops very fast.", "correct": false },
+      { "text": "Yes.", "correct": true }
+    ]
+  },
+  {
+    "id": "Q-007",
+    "question": "Can you change the high-pressure filter when the system is pressurized?",
+    "answers": [
+      { "text": "No.", "correct": true },
+      { "text": "Yes.", "correct": false }
+    ]
+  },
+  {
+    "id": "Q-008",
+    "question": "The gangway is landed on the landing platform. What happens when the telescope goes into one of the Stage 2 (Limit 2) alarm zones?",
+    "answers": [
+      { "text": "The traffic light goes red and the alarm horn is on.", "correct": true },
+      { "text": "The traffic light remains green, but the alarm horn is on.", "correct": false },
+      { "text": "Nothing happens on the gangway, only a buzzer alarm in the control cabin.", "correct": false }
+    ]
+  },
+  {
+    "id": "Q-009",
+    "question": "You land your gangway on a landing platform. Which position should your telescope be in (in meters)?",
+    "answers": [
+      { "text": "Close to '0' position (middle position).", "correct": true },
+      { "text": "Close to the inner green position.", "correct": false },
+      { "text": "Close to the outer green position.", "correct": false }
+    ]
+  },
+  {
+    "id": "Q-010",
+    "question": "In which position should the gangway be if the wind speed is at or above the maximum level?",
+    "answers": [
+      { "text": "Parked in the cradle.", "correct": true },
+      { "text": "Can be operated if wave height is acceptable.", "correct": false },
+      { "text": "Can be landed with the landing cone, but the traffic light shall be red until wind speed is below maximum again.", "correct": false }
+    ]
+  },
+  {
+    "id": "Q-011",
+    "question": "Should the landing cone always be secured to the landing platform?",
+    "answers": [
+      { "text": "Yes.", "correct": true },
+      { "text": "No.", "correct": false }
+    ]
+  },
+  {
+    "id": "Q-012",
+    "question": "What happens if an emergency stop button is triggered while the gangway is being maneuvered?",
+    "answers": [
+      { "text": "Pumps stop, and gangway movement will freeze until you release the emergency stop button.", "correct": false },
+      { "text": "Pumps stop, but you can operate with power from the accumulators.", "correct": true },
+      { "text": "Pumps stop, and gangway movement will freeze.", "correct": false }
+    ]
+  },
+  {
+    "id": "Q-013",
+    "question": "Before maneuvering, you should check the pressure on your manometers. Which pressure should you have?",
+    "answers": [
+      { "text": "200–216 bar.", "correct": false },
+      { "text": "300–316 bar.", "correct": true },
+      { "text": "400–416 bar.", "correct": false }
+    ]
+  },
+  {
+    "id": "Q-014",
+    "question": "Your gangway goes to 'free flow.' What does this mean?",
+    "answers": [
+      { "text": "The gangway follows all movements between vessels.", "correct": true },
+      { "text": "The gangway is landed and the maneuver handle is in the OFF position.", "correct": false },
+      { "text": "The gangway only follows slewing and telescoping movements.", "correct": false }
+    ]
+  },
+  {
+    "id": "Q-015",
+    "question": "Will there be an alarm if one of the pumps fails to start?",
+    "answers": [
+      { "text": "Yes.", "correct": true },
+      { "text": "No.", "correct": false },
+      { "text": "Only if all pumps fail to start.", "correct": false }
+    ]
+  },
+  {
+    "id": "Q-016",
+    "question": "Which maintenance checkpoints do you have on the landing cone?",
+    "answers": [
+      { "text": "Teeth rack, grease nipple.", "correct": false },
+      { "text": "Oil level, grease nipple.", "correct": true },
+      { "text": "Oil level, wheels.", "correct": false }
+    ]
+  },
+  {
+    "id": "Q-017",
+    "question": "Landing with a landing cone — what happens if you hold the joystick for lowering the gangway after it has landed?",
+    "answers": [
+      { "text": "Landing cone weight will increase.", "correct": false },
+      { "text": "Nothing — the gangway will stay in Free Flow.", "correct": true }
+    ]
+  },
+  {
+    "id": "Q-018",
+    "question": "You are going to disconnect from the landing platform. Before you start your main pumps, pressure on your manometers is expected to be at least 300 bar. What is keeping the pressure up?",
+    "answers": [
+      { "text": "The accumulator pump will automatically start if the pressure goes below 300 bar.", "correct": true },
+      { "text": "The accumulators.", "correct": false },
+      { "text": "Main pumps will automatically start if the pressure goes below 300 bar.", "correct": false }
+    ]
+  },
+  {
+    "id": "Q-019",
+    "question": "There is a blocking mechanism (push rod) that works when lifting cylinders are in the lowest position. Why is this installed?",
+    "answers": [
+      { "text": "To avoid the gangway from reaching the lowest position.", "correct": false },
+      { "text": "To prevent the telescope from raging out due to loss of hydraulic pressure.", "correct": true },
+      { "text": "To give emergency disconnection when the boom is in the lowest position.", "correct": false }
+    ]
+  },
+  {
+    "id": "Q-020",
+    "question": "To be checked before you start maneuvering your gangway:",
+    "answers": [
+      { "text": "Telescope teeth rack lubricated within the last week; weather conditions evaluated as safe; hydraulic oil replaced within the last three months.", "correct": false },
+      { "text": "Filters on AC unit cleaned within the last two days; no damage on gangway; lifting cylinders replaced within the last year.", "correct": false },
+      { "text": "No oil leakage in the HPU room; weather conditions evaluated as safe; no damage on the gangway.", "correct": true }
+    ]
+  },
+  {
+    "id": "Q-021",
+    "question": "Gangways with manual lashing: The gangway is landed and lashings are installed. Is it possible to lift the gangway without removing the landing cone lashings manually?",
+    "answers": [
+      { "text": "Yes, but only if both main pumps are running.", "correct": false },
+      { "text": "No.", "correct": false },
+      { "text": "Yes.", "correct": true }
+    ]
+  },
+  {
+    "id": "Q-022",
+    "question": "The gangway has landed on a landing platform. The vessel is moving away from the platform. When do you get an alarm and a red traffic light?",
+    "answers": [
+      { "text": "When you pass Stage 1 alarm limits.", "correct": false },
+      { "text": "When you pass Stage 2 alarm limits.", "correct": true },
+      { "text": "When you pass Stage 3 alarm limits.", "correct": false }
+    ]
+  },
+  {
+    "id": "Q-023",
+    "question": "Joysticks are deactivated. You try to lift your gangway by pulling the joystick for lifting towards you. What happens?",
+    "answers": [
+      { "text": "The gangway lifts slowly.", "correct": false },
+      { "text": "Nothing happens.", "correct": true },
+      { "text": "The safety system goes off.", "correct": false }
+    ]
+  },
+  {
+    "id": "Q-024",
+    "question": "Will there be an alarm if the accumulator pump fails to start?",
+    "answers": [
+      { "text": "No.", "correct": false },
+      { "text": "Only if pressure is below 200 bar.", "correct": false },
+      { "text": "Yes.", "correct": true }
+    ]
+  },
+  {
+    "id": "Q-025",
+    "question": "Oil coolers will start automatically:",
+    "answers": [
+      { "text": "When the oil temperature reaches 60°C.", "correct": false },
+      { "text": "When the oil temperature reaches 70°C.", "correct": false },
+      { "text": "Normally there is no oil cooler on passive gangways.", "correct": true }
+    ]
+  },
+  {
+    "id": "Q-026",
+    "question": "Which hydraulic pumps are normally running when the gangway is in normal operation?",
+    "answers": [
+      { "text": "Only one of the main pumps and the accumulator pump.", "correct": true },
+      { "text": "Both main pumps and accumulator pump.", "correct": false },
+      { "text": "All pumps including flushing pump.", "correct": false }
+    ]
+  },
+  {
+    "id": "Q-027",
+    "question": "You are going to operate the gangway. Which pumps must be started first?",
+    "answers": [
+      { "text": "Accumulator pump.", "correct": true },
+      { "text": "Main pump 1.", "correct": false },
+      { "text": "Main pump 2.", "correct": false }
+    ]
+  },
+  {
+    "id": "Q-028",
+    "question": "When do you activate the Safety System switch / APS Enable function?",
+    "answers": [
+      { "text": "Before landing.", "correct": true },
+      { "text": "During parking.", "correct": false },
+      { "text": "After landing.", "correct": false }
+    ]
+  },
+  {
+    "id": "Q-029",
+    "question": "The gangway is landed and the Safety System is ON. What happens if the vessel moves towards the platform?",
+    "answers": [
+      { "text": "The gangway will go into compression; telescope will retract automatically.", "correct": false },
+      { "text": "The gangway will go into tension; telescope will extend automatically.", "correct": false },
+      { "text": "An alarm and red traffic light will activate when Stage 2 limit is reached.", "correct": true }
+    ]
+  },
+  {
+    "id": "Q-030",
+    "question": "What happens if the gangway has been landed with the Safety System OFF and the vessel moves away from the platform?",
+    "answers": [
+      { "text": "Emergency disconnection will activate.", "correct": false },
+      { "text": "Telescope will extend until it reaches its maximum stroke, possibly causing damage.", "correct": true },
+      { "text": "Nothing; the gangway remains landed.", "correct": false }
+    ]
+  },
+  {
+    "id": "Q-031",
+    "question": "The telescope goes into Stage 2 alarm zone while the gangway is landed. What happens?",
+    "answers": [
+      { "text": "Traffic light goes red and alarm horn sounds.", "correct": true },
+      { "text": "Only a buzzer alarm sounds in control cabin.", "correct": false },
+      { "text": "Nothing happens.", "correct": false }
+    ]
+  },
+  {
+    "id": "Q-032",
+    "question": "When testing emergency liftoff in 'TEST' position, what conditions must be met?",
+    "answers": [
+      { "text": "Safety System OFF, APS disabled, gangway landed.", "correct": false },
+      { "text": "Safety System ON / APS enabled, test switch in TEST, gangway landed.", "correct": true },
+      { "text": "Safety System OFF, test switch in AUTO.", "correct": false }
+    ]
+  },
+  {
+    "id": "Q-033",
+    "question": "When will the gangway automatically enter Free Flow mode?",
+    "answers": [
+      { "text": "When landed and Safety System ON.", "correct": true },
+      { "text": "When parking.", "correct": false },
+      { "text": "When telescope is at inner limit.", "correct": false }
+    ]
+  },
+  {
+    "id": "Q-034",
+    "question": "What is the correct nitrogen pre-charge pressure for accumulators (approximate)?",
+    "answers": [
+      { "text": "300 bar.", "correct": false },
+      { "text": "150 bar.", "correct": true },
+      { "text": "450 bar.", "correct": false }
+    ]
+  },
+  {
+    "id": "Q-035",
+    "question": "When the gangway is parked, which position should the telescope be in?",
+    "answers": [
+      { "text": "Retracted and secured with lashing.", "correct": true },
+      { "text": "Extended halfway.", "correct": false },
+      { "text": "Any position is acceptable.", "correct": false }
+    ]
+  },
+  {
+    "id": "Q-036",
+    "question": "If the gangway must be lifted to the maximum lift angle to swing above a crane, should the telescopic part be at the outer or inner position?",
+    "answers": [
+      { "text": "Inner.", "correct": true },
+      { "text": "In the '0' position.", "correct": false },
+      { "text": "Outer.", "correct": false }
+    ]
+  },
+  {
+    "id": "Q-037",
+    "question": "What happens if you get the alarm 'Oil Level Low II'?",
+    "answers": [
+      { "text": "Pumps stop immediately.", "correct": true },
+      { "text": "The traffic light goes red.", "correct": false },
+      { "text": "Nothing happens; only an alarm is shown.", "correct": false }
+    ]
+  },
+  {
+    "id": "Q-038",
+    "question": "Which part of the gangway is normally equipped with EX-proof electrical equipment according to EX Zone 1?",
+    "answers": [
+      { "text": "The aluminium part of the gangway.", "correct": true },
+      { "text": "The aluminium part and the operator's cabin.", "correct": false },
+      { "text": "The landing cone.", "correct": false }
+    ]
+  },
+  {
+    "id": "Q-039",
+    "question": "The gangway is landed, and the telescope goes into an emergency-disconnection position. No emergency disconnection takes place. What could be the reason?",
+    "answers": [
+      { "text": "Pumps will not start.", "correct": false },
+      { "text": "The Safety System is OFF / APS is disabled.", "correct": true },
+      { "text": "System pressure is only 300 bar.", "correct": false }
+    ]
+  },
+  {
+    "id": "Q-040",
+    "question": "The gangway is landed with a landing cone and has a Stage 2 telescope alarm. What happens when you reset the alarm in the control cabin?",
+    "answers": [
+      { "text": "The alarm horn goes off and the traffic light goes green.", "correct": false },
+      { "text": "The alarm horn goes off, but the traffic light remains red.", "correct": true },
+      { "text": "The alarm horn stays on, but the traffic light goes green.", "correct": false }
+    ]
+  },
+  {
+    "id": "Q-041",
+    "question": "What happens if you get a 'Failure Operation' alarm?",
+    "answers": [
+      { "text": "Pumps stop.", "correct": false },
+      { "text": "The Safety System automatically turns OFF.", "correct": true },
+      { "text": "Emergency liftoff takes place.", "correct": false }
+    ]
+  },
+  {
+    "id": "Q-042",
+    "question": "To test emergency liftoff over open sea, which three conditions must be fulfilled?",
+    "answers": [
+      { "text": "Test switch in activated position, Safety System OFF, maneuvering to emergency-liftoff position.", "correct": false },
+      { "text": "Test switch in activated position, Safety System ON / APS enabled, maneuvering to emergency-liftoff position.", "correct": true },
+      { "text": "Test switch in activated position, traffic lights in AUTO, maneuvering to emergency-liftoff position.", "correct": false }
+    ]
+  },
+  {
+    "id": "Q-043",
+    "question": "When the telescope passes Stage 2 alarm limits, will the traffic lights automatically change from green to red?",
+    "answers": [
+      { "text": "No.", "correct": false },
+      { "text": "Yes, when traffic lights are in AUTO.", "correct": true },
+      { "text": "CCR or bridge must change from green to red manually.", "correct": false }
+    ]
+  },
+  {
+    "id": "Q-044",
+    "question": "The Safety System is ON and the gangway landed. What happens if you test the emergency-liftoff position with a magnet?",
+    "answers": [
+      { "text": "Nothing happens.", "correct": false },
+      { "text": "Emergency liftoff occurs.", "correct": true },
+      { "text": "'Failure Operation' alarm goes on.", "correct": false }
+    ]
+  },
+  {
+    "id": "Q-045",
+    "question": "The Safety System is ON and the gangway not landed. What happens if you test the emergency-liftoff position with a magnet?",
+    "answers": [
+      { "text": "Nothing happens.", "correct": false },
+      { "text": "Emergency liftoff occurs.", "correct": false },
+      { "text": "'Failure Operation' alarm goes on.", "correct": true }
+    ]
+  },
+  {
+    "id": "Q-046",
+    "question": "What is the purpose of the Safety System switch / APS Enable function?",
+    "answers": [
+      { "text": "To get emergency disconnection if needed.", "correct": true },
+      { "text": "To get telescope alarms.", "correct": false },
+      { "text": "To change the traffic light to red if needed.", "correct": false }
+    ]
+  },
+  {
+    "id": "Q-047",
+    "question": "If you get unexpected Free Flow, what do you do?",
+    "answers": [
+      { "text": "Wait for an order from the captain.", "correct": false },
+      { "text": "Pull the right joystick towards you as soon as possible.", "correct": false },
+      { "text": "Pull both joysticks towards you as soon as possible.", "correct": true }
+    ]
+  },
+  {
+    "id": "Q-048",
+    "question": "Where is the button for activating emergency accumulator operation?",
+    "answers": [
+      { "text": "In CCR / Bridge.", "correct": false },
+      { "text": "On PMC gangways, accumulators are automatically activated.", "correct": true },
+      { "text": "In the Pump House.", "correct": false }
+    ]
+  },
+  {
+    "id": "Q-049",
+    "question": "Will the gangway automatically go to Free Flow / Free State when it has landed?",
+    "answers": [
+      { "text": "Yes.", "correct": true },
+      { "text": "Yes, but only if the boom angle is correct.", "correct": false },
+      { "text": "No.", "correct": false }
+    ]
+  },
+  {
+    "id": "Q-050",
+    "question": "Can you check that the nitrogen pressure is correct on the accumulators without draining the oil?",
+    "answers": [
+      { "text": "Yes.", "correct": false },
+      { "text": "No.", "correct": true }
+    ]
+  },
+  {
+    "id": "Q-051",
+    "question": "The purpose of the Safety System switch is to enable the gangway’s emergency-liftoff function when the gangway is landed. The Safety System must be ON when the gangway is landed.",
+    "answers": [
+      { "text": "True", "correct": true },
+      { "text": "False", "correct": false }
+    ]
+  },
+  {
+    "id": "Q-052",
+    "question": "You get a 'Failure Operation' alarm because the gangway is being maneuvered while the Safety System is ON. Pressure on the lifting cylinders will automatically turn the Safety System OFF and light the red 'Failure Operation' lamp to warn the operator.",
+    "answers": [
+      { "text": "True", "correct": true },
+      { "text": "False", "correct": false }
+    ]
+  },
+  {
+    "id": "Q-053",
+    "question": "You can adjust emergency-disconnection parameters on a touch-panel gangway in: System → Setup → Timer Settings → Emergency Lift-Off (requires login).",
+    "answers": [
+      { "text": "True", "correct": true },
+      { "text": "False", "correct": false }
+    ]
+  },
+  {
+    "id": "Q-054",
+    "question": "The Emergency Lift-Off timer settings can be adjusted for emergency disconnection on a touch-panel gangway — for example, how long to lift/retract, and on some units slewing behaviour during liftoff.",
+    "answers": [
+      { "text": "True", "correct": true },
+      { "text": "False", "correct": false }
+    ]
+  },
+  {
+    "id": "Q-055",
+    "question": "You are going to test emergency liftoff in a blackout situation over open sea. Why do you move the telescope to the Stage 2 alarm limit before the main power is turned off?",
+    "answers": [
+      { "text": "To save accumulator pressure when driving the gangway without power.", "correct": true },
+      { "text": "No reason.", "correct": false }
+    ]
+  },
+  {
+    "id": "Q-056",
+    "question": "Disconnect and parking operation — is there any risk if you lift the gangway very slowly from the landing platform?",
+    "answers": [
+      { "text": "Yes — lifting too slowly can cause unexpected loads, dragging, or activation of free flow.", "correct": true },
+      { "text": "No.", "correct": false }
+    ]
+  },
+  {
+    "id": "Q-057",
+    "question": "If the gangway needs to be lifted above an obstruction, in which position should the telescope be?",
+    "answers": [
+      { "text": "The telescope should be sufficiently retracted.", "correct": true },
+      { "text": "The telescope can be in any position.", "correct": false }
+    ]
+  },
+  {
+    "id": "Q-058",
+    "question": "If you park the gangway without installing telescope lashings, what can happen?",
+    "answers": [
+      { "text": "The telescopic part may move while parked.", "correct": true },
+      { "text": "Nothing.", "correct": false }
+    ]
+  },
+  {
+    "id": "Q-059",
+    "question": "The maximum and minimum boom angles on a 45.5 m gangway are +24° to −16.5°.",
+    "answers": [
+      { "text": "True", "correct": true },
+      { "text": "False", "correct": false }
+    ]
+  },
+  {
+    "id": "Q-060",
+    "question": "Standard PMC gangways have an emergency-stop button in the HPU room. What happens if it is pushed?",
+    "answers": [
+      { "text": "The pumps stop (main motors, accumulator-charging motor, and oil-flush motor).", "correct": true },
+      { "text": "Nothing happens.", "correct": false }
+    ]
+  },
+  {
+    "id": "Q-061",
+    "question": "What needs to be done to operate the gangway if the emergency-stop button in the HPU room has been pushed?",
+    "answers": [
+      { "text": "Activate the manual handle and use the joystick. The gangway will move using accumulator pressure if there is sufficient charge.", "correct": true },
+      { "text": "Nothing.", "correct": false }
+    ]
+  }
+]
