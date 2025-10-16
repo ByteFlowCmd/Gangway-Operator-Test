@@ -221,9 +221,9 @@
   },
   {
     "id": "Q-026",
-    "question": "Which hydraulic pumps are normally running when the gangway is in normal operation?",
+    "question": "Which hydraulic pumps are normally running when the gangway is in normal operation (gangway is landed)?",
     "answers": [
-      { "text": "Only one of the main pumps and the accumulator pump.", "correct": true },
+      { "text": "Only flushing pump and the accumulator pump.", "correct": true },
       { "text": "Both main pumps and accumulator pump.", "correct": false },
       { "text": "All pumps including flushing pump.", "correct": false }
     ]
@@ -241,9 +241,9 @@
     "id": "Q-028",
     "question": "When do you activate the Safety System switch / APS Enable function?",
     "answers": [
-      { "text": "Before landing.", "correct": true },
+      { "text": "Before landing.", "correct": false },
       { "text": "During parking.", "correct": false },
-      { "text": "After landing.", "correct": false }
+      { "text": "After landing.", "correct": true }
     ]
   },
   {
@@ -278,7 +278,7 @@
     "question": "When testing emergency liftoff in 'TEST' position, what conditions must be met?",
     "answers": [
       { "text": "Safety System OFF, APS disabled, gangway landed.", "correct": false },
-      { "text": "Safety System ON / APS enabled, test switch in TEST, gangway landed.", "correct": true },
+      { "text": "Safety System ON / APS enabled, test switch in TEST, gangway not landed.", "correct": true },
       { "text": "Safety System OFF, test switch in AUTO.", "correct": false }
     ]
   },
@@ -286,7 +286,7 @@
     "id": "Q-033",
     "question": "When will the gangway automatically enter Free Flow mode?",
     "answers": [
-      { "text": "When landed and Safety System ON.", "correct": true },
+      { "text": "When landed.", "correct": true },
       { "text": "When parking.", "correct": false },
       { "text": "When telescope is at inner limit.", "correct": false }
     ]
